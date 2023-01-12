@@ -1,0 +1,239 @@
+.Text-1{
+    width: 146px;
+}
+
+
+.imgs{
+    background: url(https://coachfocus.qodeinteractive.com/wp-content/uploads/2022/05/home-5-video-img.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    width: 1149px;
+    height: 491px;
+    margin: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.word{
+    text-align: center;
+    padding-bottom: 44px;
+    margin-top: 105px;  
+}
+
+.navbar2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:#f9f9f9;;
+    border-radius: 10px;
+    height: 655px;
+    margin: 60px;
+}
+
+.card{
+    display: flex;
+}
+
+
+.img2{
+    width: 250px;
+    border-radius: 10px
+   
+}
+
+.text-1{
+    padding: 57px;
+}
+
+.custmss{
+    display: flex;
+    
+}
+
+.width{
+    width: 39px;
+    height: 31px;
+    margin-top: 29px;
+}
+
+.h1{
+    font-size: 10px;
+}
+
+.cdn-icons-png{
+    width: 60px;
+
+}
+
+.cdn-icons-png1{
+    width: 60px;
+}
+
+.text2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.boy{
+    width: 350px;
+    border-radius: 10px;
+}
+
+.boy-text{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 80px;
+}
+
+.p-text{
+    color: rgb(192, 192, 192);
+}
+
+.View{
+    margin-left: 175px;
+    margin-top: 123px;
+}
+
+.business{
+    font-size: 22px;
+    margin-top: -13px
+}
+
+.Martin{
+    color: rgb(192, 192, 192);
+    margin-top: auto;
+    font-size: 13px;
+}
+
+
+.number{
+    font-size: 13px;
+}
+
+
+   
+    
+.free{
+    color: orangered;
+    margin-top: -7px;
+
+}
+
+.money{
+    font-family: sans-serif;
+}
+
+   
+.new{
+    color: orangered;
+    font-family: sans-serif;
+    margin-top: 3px;
+}
+
+.arrow{
+    width: 16px;
+}
+
+
+.orange{
+    background-image: url(https://coachfocus.qodeinteractive.com/wp-content/uploads/2022/04/Group-1467.jpg);
+    width: 1436px;
+    height: 228px;;
+    margin: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.high{
+    font-size: 25px;
+    color: white;
+    padding: 75px;
+    font-family: sans-serif;
+}
+
+.orange-2{
+    width: 140px; 
+    border-radius:20px;
+    border:1px solid white;
+    
+    color: white;
+    margin-top: 90px;
+    padding: 5px;
+    margin-left: 322px;
+}
+
+.arrow-2{
+    width: 16px;
+    color: white;
+}
+
+.footer{
+    background-color: black; 
+    width: 1436px;
+    margin-top: -60px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 410px;        
+}
+
+.footer-1{
+    width: 108px;
+}
+
+.contact{
+    color: white;
+    font-size: 15px;
+}
+
+.avenue{
+    color: #b1b0b5;
+    font-size: 13px;
+}
+
+.phone{
+    color: #b1b0b5;
+    font-size: 13px;
+}
+
+.email{
+    color: #b1b0b5;
+    font-size: 13px;
+}
+
+.footer-2{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 95px;
+    margin-right: 108px;
+}
+
+
+.contac{
+    margin-right: 41px;
+    margin-top: 11px;
+}
+
+.tree-cards{
+    border-radius: 10px;
+}
+
+.animation{
+    overflow: hidden;
+}    
+
+.animation img{
+    transition: all 1.5s ease;
+
+}
+
+.animation:hover img{
+    transform: scale(1.5s);
+}
+
